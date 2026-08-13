@@ -1,4 +1,4 @@
 interface:
   display_name: "热点消息真假分辨"
-  short_description: "核实热点消息真伪，输出查证分析、判定结论与辟谣后的真实内容"
+  short_description: "核实热点消息真伪，输出已脱敏的查证分析与辟谣后的真实内容"
   default_prompt: "Use $mosato-redianfenxi：真的假的：<热点消息>"
